@@ -14,6 +14,9 @@ Here's a [Jupyter notebook](dino-dragon-stable-diffustion.ipynb) that shows how 
 </p>
 
 
+![collage](https://user-images.githubusercontent.com/875246/192118072-615c809c-5082-4544-b5a3-2191b2d13c47.jpg)
+
+
 Generated data
 
 - TODO: kaggle link
