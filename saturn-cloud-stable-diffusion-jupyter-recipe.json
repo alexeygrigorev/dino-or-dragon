@@ -15,7 +15,7 @@
   },
   "git_repositories": [
     {
-      "url": "git@github.com:alexeygrigorev/dino-or-dragon.git,
+      "url": "git@github.com:alexeygrigorev/dino-or-dragon.git",
       "path": "/home/jovyan/examples",
       "public": true,
       "on_restart": "preserve changes",
