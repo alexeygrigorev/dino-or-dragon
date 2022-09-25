@@ -20,5 +20,5 @@ with Stable Diffusion
 
 Generated data
 
-- TODO: kaggle link
+- https://www.kaggle.com/datasets/agrigorev/dino-or-dragon
 
