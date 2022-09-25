@@ -19,7 +19,7 @@
       "path": "/home/jovyan/examples",
       "public": true,
       "on_restart": "preserve changes",
-      "reference": "fc7ddb05d424adae4e8754d47bccd70ead09f9a2",
+      "reference": "afd1a8cf72bdf5f44807485a2e98c33a723ab625",
       "reference_type": "commit"
     }
   ],
